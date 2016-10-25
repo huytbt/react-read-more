@@ -2,7 +2,7 @@
 
 Read more React component
 
-This package re-distribute from (React-Truncate)[https://github.com/One-com/react-truncate] (Copyright (c) 2016, One.com)
+This package re-distribute from [React-Truncate](https://github.com/One-com/react-truncate) (Copyright (c) 2016, One.com)
 
 ## Install
 ```
